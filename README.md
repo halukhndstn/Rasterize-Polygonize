@@ -26,11 +26,9 @@ QGIS plugin that performs rasterization and polygonization operations in a singl
 
 ![image](https://github.com/user-attachments/assets/9a8c00a1-d246-4427-bfb5-2951f0120fdb)
 
-- Follow this file path: 
+- Follow this file path, and upload the "rasterize-polygonize" folder to this file path.
         
         Active User Folder >  pyhton > plugins
-
-- Upload the "rasterize-polygonize" folder to this file path.
 
 - **Restart QGIS.**
 
@@ -40,7 +38,7 @@ QGIS plugin that performs rasterization and polygonization operations in a singl
 
 ![image](https://github.com/user-attachments/assets/b98f13ba-c3da-4130-9bc1-667c77585131)
 
-## Example Outputs
+## Example Output
 
 ![image](https://github.com/user-attachments/assets/a73ffeba-9bff-4308-af62-3d7e96f7eb07)
 
