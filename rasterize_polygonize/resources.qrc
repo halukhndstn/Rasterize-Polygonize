@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/rasterize_polygonize" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
